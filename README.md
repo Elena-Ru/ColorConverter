@@ -4,7 +4,7 @@ ColorConverter is a Swift Package designed to simplify color conversions between
 
 ## Installation
 
-To add ColorConverter to your project add following url using Swift Package Manager.
+To add ColorConverter to your project add **https://github.com/Elena-Ru/ColorConverter.git** using Swift Package Manager.
 
 ## Usage Example
 ```
