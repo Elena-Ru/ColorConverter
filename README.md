@@ -7,7 +7,8 @@ ColorConverter is a Swift Package designed to simplify color conversions between
 To add ColorConverter to your project add following url using Swift Package Manager.
 
 ## Usage Example
-``` import ColorConverter
+```
+import ColorConverter
 
 let converter = ColorConverter()
 
