@@ -20,7 +20,7 @@ public struct ColorConverter {
     }
 
     public func rgbToHex(r: Int, g: Int, b: Int) -> String {
-        return String(format: "#%02X%02X%02X", NSNumber(value: r), NSNumber(value: g), NSNumber(value: b))
+        return String(format: "#%02X%02X%02X", r, g, b)
     }
 }
 
